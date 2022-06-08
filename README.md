@@ -12,7 +12,7 @@
 
 ## Preview
 
-[Demo](https://polar-hamlet-58263.herokuapp.com/)
+![]([https:](https://github.com/chobot123/scoober/blob/main/src/preview.gif)
 
 ## Technologies
 
