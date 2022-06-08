@@ -12,7 +12,7 @@
 
 ## Preview
 
-![Demo](https:(https://github.com/chobot123/scoober/blob/main/src/preview.gif)
+![Demo](https://github.com/chobot123/scoober/blob/main/src/preview.gif)
 
 ## Technologies
 
