@@ -1,0 +1,20 @@
+.how-it-works-home{
+    background-image: url("./andreas-brucker-g5Uh7nP60FA-unsplash.jpg") !important;
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+    background-size: cover;
+    margin: 0;
+    max-height: 20rem;
+    margin-top: 0 !important;
+    padding: 0 !important;
+}
+
+.how-it-works-home>.overlay {
+    background-color: rgba(0,0,0, 0.3);
+}
+
+.how-it-works-home>*{
+    padding: 5rem 0px;
+    color: black;
+    font-weight: bolder;
+}

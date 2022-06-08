@@ -1,0 +1,31 @@
+.signup-home{
+    margin-top: 0 !important;
+    padding: 4rem;
+}
+
+.signup-buttons{
+    margin: 1rem 0rem !important;
+    gap: 1rem;
+}
+
+.img-fluid{
+    max-height: 25rem !important;
+}
+
+.carousel-inner {
+    max-height: 19.5rem !important;
+}
+
+.display-2.sign-up{
+    margin-left: 2rem;
+}
+
+.sign-up {
+    font-weight: bold !important;
+}
+
+.signup-flavor-text {
+    margin-top: 1rem;
+    font-size: medium;
+}
+

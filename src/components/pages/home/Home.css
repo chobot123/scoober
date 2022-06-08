@@ -1,0 +1,13 @@
+.home>*{
+    margin-top: 3rem;
+}
+
+.btn {
+    border-radius: 4px !important;
+    padding-left: 1.75rem !important;
+    padding-right: 1.75rem !important;
+}
+
+p.h3 {
+    font-weight: bold !important;
+}

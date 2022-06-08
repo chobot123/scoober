@@ -1,0 +1,9 @@
+.safety-home {
+    margin-top: 2rem !important;
+    background-color: rgba(179, 179, 179, 0.1);
+}
+
+.safety {
+    padding: 1rem 0px !important;
+    font-weight: bold !important;
+}
