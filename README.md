@@ -23,7 +23,7 @@
 
 ## Setup
 
-- See **create-react-app.md for installation
+- See **create-react-app.md** for installation
 
 ## Features
 
