@@ -19,7 +19,7 @@
 - HTML5
 - CSS3
 - [React.js](https://github.com/facebook/react)
-- [Boostrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Setup
 
